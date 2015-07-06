@@ -1,6 +1,10 @@
 # DATA-Virus
 The virus create a lot of BIG files
 
+# How to use?
+
+The file you have to run as administrator and then put the program the whole C drive full of files of 100 MB
+
 # Report Issues/Bugs
 [Bugs](https://github.com/BastiaanDeHart/DATA-Virus/issues)
 
